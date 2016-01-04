@@ -1,0 +1,32 @@
+package: github.com/atsaki/terraform-provider-idcf
+import:
+- package: github.com/mitchellh/mapstructure
+  version: 281073eb9eb092240d33ef253c404f1cca550309
+- package: github.com/hashicorp/yamux
+  version: df949784da9ed028ee76df44652e42d37a09d7e4
+- package: github.com/mitchellh/go-homedir
+  version: d682a8f0cf139663a984ff12528da460ca963de9
+- package: github.com/atsaki/go-idcf
+  version: f98fad5c47aa26c835b6bf8747af1dc23e692df7
+- package: github.com/hashicorp/errwrap
+  version: 7554cd9344cec97297fa6649b055a8c98c2a1e55
+- package: github.com/go-ini/ini
+  version: 887c8d36f8411bededfd2281daa3907f5f36552e
+- package: github.com/aws/aws-sdk-go
+  version: 0869a433c1d7bbcd6bde8e217084c0aa1354b596
+- package: github.com/jmespath/go-jmespath
+  version: c01cf91b011868172fdcd9f41838e80c9d716264
+- package: github.com/hashicorp/terraform
+  version: c7573de75b196c474ba70de7f908afa8b83f8b41
+- package: github.com/mitchellh/copystructure
+  version: 6fc66267e9da7d155a9d3bd489e00dad02666dc6
+- package: github.com/apparentlymart/go-cidr
+  version: a3ebdb999b831ecb6ab8a226e31b07b2b9061c47
+- package: github.com/hashicorp/hcl
+  version: 197e8d3cf42199cfd53cd775deb37f3637234635
+- package: github.com/hashicorp/go-multierror
+  version: d30f09973e19c1dfcd120b2d9c4f168e68d6b5d5
+- package: github.com/mitchellh/reflectwalk
+  version: eecf4c70c626c7cfbb95c90195bc34d386c74ac6
+- package: github.com/hashicorp/go-getter
+  version: c5e245982bdb4708f89578c8e0054d82b5197401
